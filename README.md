@@ -20,3 +20,4 @@
 * HTML
 * CSS
 * Heroku
+* Git
